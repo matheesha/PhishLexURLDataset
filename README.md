@@ -1,2 +1,3 @@
-# PhishLexURL2021
-Phishing dataset with 114 lexical URL features
+# PhishLexURLDataset
+Phishing and benign URL Data with timestaps to eliminate temporaral bias in data.
+74 URL lexical features extraced on the the URL dataset with training and testing temporal split
